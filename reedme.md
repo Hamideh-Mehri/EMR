@@ -4,6 +4,6 @@ Data set aggregated by "channel".
 
 Data set containing the records filtered by the following conditions:
 
-** isRobot: False
+* isRobot: False
 
-** countryName:  United States
+* countryName:  United States
